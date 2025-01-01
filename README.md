@@ -111,7 +111,5 @@ This application was developed to address the challenge of identifying fake news
 
 This project is licensed under the MIT License.  
 
-Feel free to contribute to the project or share feedback!  
-
 ---
 
