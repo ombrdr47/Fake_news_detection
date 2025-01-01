@@ -97,7 +97,7 @@ Each category is combined into a single dataset for model training and evaluatio
 ## 🎨 Screenshots  
 
 ### Home Page  
-![Home Page](screenshots/home_page.png)  
+![Home Page](screenshots/ss.png)  
 
 ---
 
